@@ -1,6 +1,6 @@
 # Human Segmentation과 Depth Map으로 구성된 3D 가상 환경에서의 Selfie-Camera Application 구현
 - **Project Name:** Selfie-Camera Application In 3D Virtual Space With Human Segmentation of 360 Image And Depth Map
-- **Project Member:** 김현조(@hyunjoebrother), 이성인(@adultlee)
+- **Project Member:** 김현조([@hyunjoebrother](https://github.com/hyunjoebrother/)), 이성인([@adultlee](https://github.com/adultlee/))
 - **Project Team:** 인하대학교 정보통신공학과 정보통신종합설계 (지도교수: 이채은 교수님)
 - **Project Date:** 2022.06.21 ~ 2022.12.14
 
@@ -87,7 +87,10 @@ In this paper, we propose a service that user can experience the three-dimension
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/66728383/208364819-7f488cfb-8fde-4f77-9763-6da046955639.png" width="80%" height="80%">
+
+<img src="https://user-images.githubusercontent.com/66728383/208608074-74890e7c-739b-4b30-b1e6-a05cf95aa661.gif" width="48%" height="48%">
+<br>
+<img src="https://user-images.githubusercontent.com/66728383/208605295-7f095495-df4f-43bd-b8a9-96defd01bb2f.gif" width="48%" height="48%">
 
 
 
